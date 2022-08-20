@@ -1,2 +1,5 @@
 # LAB2
-Autor: Juanita Oramas
+Laboratorio # 2
+CVDS
+
+**Autor:** Juanita Oramas
